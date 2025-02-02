@@ -8,6 +8,6 @@
 		"redhat.vscode-yaml",
 		"esbenp.prettier-vscode",
 		"dbaeumer.vscode-eslint",
-		"abusaidm.html-snippets"
+		"tushortz.python-extended-snippets"
 	]
 }
